@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { CopilotKit } from '@copilotkit/react-core';
 import { Mailer } from './Mailer';
+import '@copilotkit/react-ui/styles.css';
 
 function App() {
   return (
